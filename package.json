@@ -15,12 +15,15 @@
     "@mui/material": "^6.4.11",
     "@mui/x-date-pickers": "^7.29.2",
     "@mui/x-date-pickers-pro": "^7.29.2",
+    "netlify": "^22.2.1",
     "next": "^15.1.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
+    "@netlify/next": "^1.4.9",
+    "@netlify/plugin-nextjs": "^5.11.4",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
